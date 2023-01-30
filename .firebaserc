@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "lucky-money-d71b9": {
+      "hosting": {
+        "lucky-money-wheel": [
+          "lucky-money-d71b9"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "lucky-money-d71b9"
+  }
+}
